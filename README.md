@@ -1,3 +1,3 @@
 # vaccine predictor
 
-##predicts vaccine status of respondents
+predicts vaccine status of respondents
